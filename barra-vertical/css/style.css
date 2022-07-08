@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.barra-vertical {
+
+    background: #f7b600;
+    width: 10%;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover, .active a {
+    background: #f99200;
+    color: white;
+}
